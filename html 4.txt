@@ -1,0 +1,23 @@
+<1DOCTYPEhtml>
+<html>
+<head>
+<style>
+h1 {
+  colour: blue;
+  font-family: verdana;
+  font-size: 300%;
+
+}
+p  {
+  colour: red;
+  font-family: courier;
+  font-size: 160%
+}
+</style>
+</head>
+<body>
+ 
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+</body>
+</html>
